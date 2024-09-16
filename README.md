@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @non-ee
+- 👋 Hi, My name is Nam Non. I am a computer architecture student.
 
 <!---
 non-ee/non-ee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
